@@ -8,7 +8,8 @@ A deep learning web application built with Streamlit that classifies music track
 
 ---
 
-![App Screenshot]([https://github.com/harsh-ydv8/Music-Genre-Classifier/issues/1#issue-3465826416])
+![App Screenshot](<img width="2560" height="1600" alt="Screenshot 2025-09-29 222316" src="https://github.com/user-attachments/assets/39b7c805-52f8-4dfd-b311-3adb1c162eb5" />
+)
 
 ## 📚 Project Overview
 
