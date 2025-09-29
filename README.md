@@ -34,6 +34,7 @@ This project is an end-to-end music genre classification system. It takes raw au
 *   **Docker:** For containerizing the application for deployment.
 *   **GitHub:** For version control and hosting the source code.
 *   **Streamlit Community Cloud:** For hosting the live application.
+### 🗄️[Dataset ➡️ Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data?suggestionBundleId=1320)
 
 ## 🚀 Setup and Local Installation
 
