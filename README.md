@@ -8,8 +8,8 @@ A deep learning web application built with Streamlit that classifies music track
 
 ---
 
-![App Screenshot](<img width="2560" height="1600" alt="Screenshot 2025-09-29 222316" src="https://github.com/user-attachments/assets/39b7c805-52f8-4dfd-b311-3adb1c162eb5" />
-)
+### 📸 [App Screenshot](https://private-user-images.githubusercontent.com/127317417/495297582-bf438670-83eb-4064-9f89-8f5539a83c30.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxNjU2MjYsIm5iZiI6MTc1OTE2NTMyNiwicGF0aCI6Ii8xMjczMTc0MTcvNDk1Mjk3NTgyLWJmNDM4NjcwLTgzZWItNDA2NC05Zjg5LThmNTUzOWE4M2MzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyOVQxNzAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzU3ZDVmN2QxMmEyOGYzNDhlZWY2OGE2NjNjYTQxM2ZmN2FjYjRmMTJjNTQ1MjA0NDIxOGVkZWVhMzU3ODVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IEvIcfyew2jYdPZccQ7EpolT-vGwKkTOMonb-UZPTUE)
+
 
 ## 📚 Project Overview
 
