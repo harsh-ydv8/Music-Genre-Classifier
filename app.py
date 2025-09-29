@@ -10,7 +10,6 @@ def load_model_and_scaler():
         model = tf.keras.models.load_model('music_genre_cnn.h5', compile=False)
         
         scaler = joblib.load('scaler.joblib')
-        
         genre_mapping = {
             0: 'blues', 1: 'classical', 2: 'country', 3: 'disco', 4: 'hiphop',
             5: 'jazz', 6: 'metal', 7: 'pop', 8: 'reggae', 9: 'rock'
